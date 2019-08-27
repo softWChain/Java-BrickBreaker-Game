@@ -1,0 +1,25 @@
+package pack1;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		
+		new Gui();
+		new Label();
+		new KeyHandler();
+		
+		new Movement();
+		new ballMovement();
+		new ballCarpma();
+		new duþmanMovement();
+		
+		try{
+			new Draw();
+		}
+		catch(Exception e){
+			
+		}
+	}
+
+}

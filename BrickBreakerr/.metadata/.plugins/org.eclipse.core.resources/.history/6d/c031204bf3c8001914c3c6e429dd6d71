@@ -1,0 +1,11 @@
+package pack1;
+
+import javax.swing.*;
+
+public class Label {
+	
+	static JFrame frame;
+	static final int sizeWidthScreenValue = 800;
+	static final int sizeHeightScreenValue = 600;
+
+}
